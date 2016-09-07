@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "rust.rustLangSrcPath": "/home/james/Software/rust/src", // Specifies path to /src directory of local copy of Rust sources
+    "rust.cargoHomePath": "~/.cargo"
+}

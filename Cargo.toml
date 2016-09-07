@@ -1,0 +1,9 @@
+[package]
+name = "image-compression"
+version = "0.1.0"
+authors = ["james <LucasJ94@hotmail.co.uk>"]
+
+[dependencies]
+rusty-machine = "0.4.4"
+image = "0.10.3"
+clap = "2.11.2"
